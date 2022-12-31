@@ -71,4 +71,6 @@ litecoin:ltc1qrv33sp3adalx9lueg8nxm5gj7ptndceqkt02kv
 monero:84zqtyCWWM37dxN1HuZV5Ebbx8Zn61DcRQwazpjtieAPSQ9jHJtghq1ew4qKsNoapdGKzXVtz3TgxJkfKpZUyiJHHZRWG1a  
 
 Original location: https://github.com/sthamster/pwm-player  
+  
+Binary builds for WirenBoards are here: https://github.com/sthamster/pwm-player/blob/master/v01/pwm-player-01.tgz  
 
