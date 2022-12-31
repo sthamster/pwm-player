@@ -39,7 +39,7 @@ PWM Player - это игралка простейших мелодий для с
 
 
 <a id="eng"/>
-__PWM Player__ plays simple melodies using buzzer attached to a software-controlled PWM device, that should be available in linux under `/sys/class/pwm/pwmchip0/pwm<N>`, where N is PWM device number.  
+**PWM Player** plays simple melodies using buzzer attached to a software-controlled PWM device, that should be available in linux under `/sys/class/pwm/pwmchip0/pwm<N>`, where N is PWM device number.  
 It does not meant to be a music player due to a poor performance of PWM controlled audio output. Yet it is quite sufficient to produce audio notifications for headless linux boxes from iMelody/eMelody or MIDI sources.
 
 In order to play a melody file just specify it with appropriate option:  
